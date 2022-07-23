@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Donor Information</string>
+    <string name="Name_hint">Full Name</string>
+    <string name="District_hint">District</string>
+    <string name="Status_hint">Current Status:</string>
+    <string name="PhoneNumber_hint">Phone Number</string>
+    <string name="PhoneNumberStatus_hint">Phone Number Status:</string>
+    <string name="BloodGroup_hint">Blood Type:</string>
+    <string name="Submit_text">Submit</string>
+    <string name="Donor_text">Donor List</string>
+    <string name="Search_bar">Search</string>
+    <string name="CallIcon_des.">Call Icon</string>
+</resources>
